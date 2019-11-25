@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-26T00:08:56+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/mac/Downloads/Угрюмов Виктор Петрович о школах верховой езды.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Downloads/Угрюмов Виктор Петрович о школах верховой езды.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:11ad4a6d-6ddf-49cf-8343-57dd87524ee8</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">41</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="11755"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="14500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="14696"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="19138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="26210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="29110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="44431"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="48230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="50200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="56700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="57550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="61600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="62000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="65200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="66400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="77600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="79800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="87582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="88600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="92300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="93200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="98700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="99600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="104491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="104491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="104982"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="105000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="114800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="117592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="124627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="125000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="134589"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="135900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="141259"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="141700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="152552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="154652"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="168041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="168210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="171900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="173000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="178600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="182300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="184050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="185000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="193500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="194072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="199940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="200757"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="202267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="203500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="207689"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="208457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="213557"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="217900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="222000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="224001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="228171"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="229700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="237466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="237500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="238800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="239400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="283000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="283100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="290140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="290683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="293236"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="294576"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="298988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="299400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="305162"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="307001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="314400"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="@uvp1939m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>вот меня часто спрашивают вот как/было раньше и как щас</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>конечно / то что щас имеют техни... в этом / техническом плане лошади седла манежи //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>там это превосходит мы даже близко не подходим //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>но / раньше была маленькая база // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>какой-то республики или что-то /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>какой-то манежик / он был предназначен для того чтобы люди повышали спортивное мастерство //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>вот чем отличается старая школа от новой там какие бы условия не было но там конкретно занимались / троеборьем конкретно занимались выездкой конкретно занимались / там пятиборьем // и и так далее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>у меня мать / комсомолка тридцатых годов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>кончившая семилетку / была такая начитанная была она / очень следила за моими успехами // но /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>никогда не видела нашу эту самую / изнанку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>и вот она однажды на работу ко мне пришла //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>а я там кобылу за... за... заламываю // вот я заламываю эту кобылу / там шо-то с ней делаю / в общем повозился долго / слез / подошел к ней / спрашиваю че нужно было //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>она говорит // слушай / я посмотрела на тебя / у тебя вид человека решающего важную государственную задачу /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>потому что она комсомолка она м... мыслила только / государственным [нрзб] /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>столько мыслей столько энергии столько таланта и куда // кобыле под хвост //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>как одна // девочка она / ну как девочка женщина изабель верт //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>она спросила че за разговоры о / о немецкой школе об этой самой французской школе об испанской школе школа бывает или хорошая или плохая //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>понимаете / а наша а наша школе был такой / у меня был // такой / приятель #кашляет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>[нрзб] / он / чемпион мира в команде третий в личном первенстве чемпион европы в команде / лично в третьем в тре... в ээ это в личном первенстве //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>он / тренер канадской команды / голландской команды был на олимпийских / играх</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>и он / с нами с... с... с нами познакомился и заинтересовался мне говорит интересно / интересно как вы при своей при своей нищете / можете путаться у нас под ногами //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>потому что мы их // всегда были за ними вот в впритык а иногда и / вот как только они расслаблялись ну и у них выигрывали и вот им это было интересно / и // чем отлич... какая школа там //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>школа была или хорошая или плохая а у нас была школа русская она была хорошая /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>мы выигрывали // есть щас пр... пр... проблески вот этой школы // меркулова //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>есть проблески этой школы милосердова //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>хоть она за границей тренируется но все это разговоры о том что она тренируется вот у этих западных она тренируется по той школе которой ее учили с детства //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ай я я все время говорю / не ведь не даром говорят если звезды загораются это кому-то нужно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ну / вот кому нужно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>кому нужно что щас вот / выступила эта самая / меркулова //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>хорошо / кому это нужно ей // плохо она выступила кому это нужно ей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>вот та... такая такая вещь / а база ишь какие базы ну какие базы на каких базах #вздох</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>[нрзб] // да с... / это кузница кадров сколько можно было наковать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>у нас было пятнадцать республик / и две / два города москва / [нрзб] / в каждой //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>были тренеры /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>мм чем они отличались один от другого дело в том что / страна большая / и разные разные области за... занимает и в каждой области были / свои / традиции свои / лошади свои это самое и отличались они тем что эти специалисты работали с такими лошадьми эти специалисты работали с такими лошадьми в москве работали с такими лошадьми и это была большая школа их было много и... // и обязательно / из этих пятнадцати школ / во... можно было вырвать то в од... // казахстане то в узбекистане то в киргизии можно было выиграть то в армении то еще где можно было выбрать сборную команду / ведь это самое</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>н... не секрет что сборная команда не состояла из одних // москвичей и из одних ленинградцев //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>обязательно там вмешивались со всех республик //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>ну и если если в каждом каждом вот таком каждой базе //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>могли могли создать / какое-то ядро небольшое // а баз сколько в москве //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>я думаю что у нас сборная команда имела бы // приличный приличный резервный состав и результат и результаты [нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="trnscrpt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
